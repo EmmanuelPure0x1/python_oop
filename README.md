@@ -1,6 +1,6 @@
 # Python OOP
 
-**Step 1**
+**Step 1:**
 - Create an Animal class as our Parent class
 ```python
 # Creating an animal class as PARENT/BASE/SUPER class.
@@ -35,7 +35,7 @@ class Animal:
 #print(cat.eat())
 ```
 
-**Step 2**
+**Step 2:**
 - Create reptile class as the child class; so we can ```INHERIT``` from our ```PARENT``` class.
 - Abstract 
 ```python
@@ -79,7 +79,7 @@ class Reptile(Animal):
 # print(reptile_object.hunt())
 # print(reptile_object.seek_heat())
 ```
-**Step 3**
+**Step 3:**
 - Create snake class as child of reptile
 ```python
 # Creating a snake class as a child Class of Reptile
@@ -120,7 +120,7 @@ print("\n- Above output is inherited from local class")
 
 ```
 
-**Step 4**
+**Step 4:**
 - Create a Python class 
 ```python
 # Creawting python class as child class of our Snake class
