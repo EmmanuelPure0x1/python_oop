@@ -175,3 +175,7 @@ print(monty.use_tongue_to_smell())
 print(monty.large)
 print(monty.swim())
 ```
+
+
+- ```__name__``` and ```__main__``` are used to check if the code is run from current file/directly for different file/importing it.
+- we will create 2 files and use __name__ and __main__ in both files and the outcome will show the difference
