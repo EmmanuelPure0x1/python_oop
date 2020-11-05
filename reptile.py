@@ -16,8 +16,10 @@ class Reptile(Animal):
 
     def seek_heat(self):
         return "looking for sun shine"
+
     def hunt(self):
         return "working hard"
+
     def use_venum(self):
         return "ill use it"
 
