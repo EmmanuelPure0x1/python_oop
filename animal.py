@@ -26,6 +26,6 @@ class Animal:
 
 # cat as child has inherited everything from animal / parent class
 # 4 pillars:
-    # abstracted - eat()
-#print(cat.eat())
+# abstracted - eat()
+# print(cat.eat())
 
